@@ -1,0 +1,50 @@
+.section-hilites .section-content {
+    width:100%;
+    height:100%;
+    padding: 10% 5% 0 5%;
+    display:flex;
+    color:white;
+    align-items: flex-end;
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(bottom, #f3f3f3 0%, #f3f3f3 30%, #ffffff 30%, #ffffff 50%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #f3f3f3 0%,#f3f3f3 30%,#ffffff 30%,#ffffff 50%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #f3f3f3 0%,#f3f3f3 30%,#ffffff 30%,#ffffff 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+    }
+    .section-hilites .section-content .box-one{
+    width:60%;
+    height: 100%;
+    justify-content: center;
+    }
+    .section-hilites .section-content .box-one .hilites{
+        color:#ececec;
+        font-family:"Montserrat";
+        font-weight: 600;
+        font-size: 7rem;
+        justify-content: center;
+        display: flex;
+        align-items: flex-end;
+    }
+    .section-hilites .section-content .box-one .Mobile-App{
+        color:black;
+        font-family:"Montserrat";
+        font-weight: 600;
+        font-size: 2.5rem;
+        display: flex; 
+        align-items: flex-end;
+    }
+    .section-hilites .section-content .box-one .text{
+     color:black;
+     font-family:"Montserrat";
+     font-weight: 400;
+     font-size: 1rem;
+     line-height:35px;
+     display: flex; 
+     align-items: flex-end;
+    }
+    .section-hilites .section-content .box-two {}
+    .section-hilites .section-content .box-two .photo > img{
+        width:70%;
+        height: auto;
+        display: block; 
+    }

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 10 10">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-scroll);
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #9e9e9e;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-scroll">
+      <rect width="10" height="10"/>
+    </clipPath>
+  </defs>
+  <g id="scroll" class="cls-1">
+    <g id="Rectangle_174" data-name="Rectangle 174" class="cls-2" transform="translate(0 10) rotate(-90)">
+      <rect class="cls-3" width="10" height="10" rx="2"/>
+      <rect class="cls-4" x="1" y="1" width="8" height="8" rx="1"/>
+    </g>
+  </g>
+</svg>

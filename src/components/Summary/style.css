@@ -1,0 +1,54 @@
+.section-Summary .section-cont {
+    padding: 10% 5% 0 5%;
+    width:100%;
+    height:100%;
+    color:#ffffff;
+
+background:#f3f3f3;/* Old browsers */
+background: -moz-linear-gradient(#f3f3f3); /* FF3.6-15 */
+background: -webkit-linear-gradient(#f3f3f3); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(#f3f3f3); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    display: flex;
+}
+.section-Summary .box{
+    width:40%;
+    height:100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.section-Summary .box-1{
+    width:100%;
+    height:100%;
+    
+}
+.section-Summary .box-1 > img {
+ width:100%;
+ height:auto;
+ display:block;
+ justify-content: space-between;
+ 
+}
+.section-Summary .box-2{
+    width:60%;
+    height:100%;
+    justify-content: space-between;
+    display:flex;
+}
+.section-Summary .box-2 .Summary{
+  
+    color: black;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: "Montserrat";
+  
+}
+.section-Summary .box-2 .text-box{
+    color: black;
+    line-height: 40px;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Montserrat";
+}

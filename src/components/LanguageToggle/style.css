@@ -1,0 +1,8 @@
+.header-lang {
+    font-size: 1.000rem;
+    font-family: "Montserrat";
+    font-weight: 600;
+}
+.header-lang .lang-item  {padding-left:20px; text-decoration:none; color:#ffffff;cursor:pointer;}
+.header-lang .lang-item:hover,
+.header-lang .lang-item.active  {text-decoration:none; color:#ff0000}
