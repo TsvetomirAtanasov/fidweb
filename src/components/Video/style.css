@@ -1,5 +1,4 @@
 .section-Video{
-    padding: 10% 5% 0 5%;
     width:100%;
     height:100%;
     background:#3b3b3b;
@@ -11,7 +10,8 @@
     font-family: "Montserrat";
     font-weight: 600;
     font-size:3.75rem;
-    text-align: center;
-    position: relative;
-    bottom:25%;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    text-align:center;
 }
